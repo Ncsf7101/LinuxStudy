@@ -276,3 +276,7 @@ vi	vi bin/zkEnv.sh	在该文件添加如下
 
 ./zkServer.sh start/stop/status	bin目录下对zookeeper启动/停止/查看状态
 
+**Dubbo**
+
+dubbo-admin 一直无法启动，**暂时搁置**
+
